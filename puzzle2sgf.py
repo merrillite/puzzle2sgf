@@ -8,6 +8,7 @@ downloadWholeCollection =  False
 # if True, all problems of the specified puzzle's collection are downloaded
 
 puzzleNumber = 6544
+# the puzzle id taken from the puzzle URL
 
 skipAuthentication = True
 # authentication is required for private problems
